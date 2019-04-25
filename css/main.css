@@ -24,6 +24,14 @@ body {
 .title {
   margin: 0;
 }
+.footer {
+  text-align: center;
+}
+.github-icon {
+  width: 32px;
+  vertical-align: middle;
+  fill: #333;
+}
 
 @media only screen and (max-width: 490px) {
   .header {
