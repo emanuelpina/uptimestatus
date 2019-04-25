@@ -5,15 +5,31 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
 }
+.content {
+  max-width: 1180px;
+  margin: 0 auto;
+}
 .header {
   display: flex;
   margin-top: 20px;
   padding: 0 15px;
   align-items: center;
 }
+.icon {
+  width: 96px;
+}
 .title-description {
   padding: 0 15px;
 }
 .title {
   margin: 0;
+}
+
+@media only screen and (max-width: 490px) {
+  .header {
+    flex-flow: column;
+  }
+  .title-description {
+    text-align: center;
+  }
 }
