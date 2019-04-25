@@ -1,1 +1,1 @@
-On this folder will be the **icon.png** and **favicon.png** files.
+On this folder will be the **favicon.png** file.
