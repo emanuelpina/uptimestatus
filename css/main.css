@@ -17,6 +17,7 @@ body {
 }
 .icon {
   width: 96px;
+  fill: #333;
 }
 .title-description {
   padding: 0 15px;
