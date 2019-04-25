@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
+
+body {
+  background: #eff3f8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+.header {
+  display: flex;
+  margin-top: 20px;
+  padding: 0 15px;
+  align-items: center;
+}
+.title-description {
+  padding: 0 15px;
+}
+.title {
+  margin: 0;
+}
